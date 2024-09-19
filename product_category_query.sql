@@ -1,3 +1,4 @@
+use ProductCategoryTest
 SELECT 
     p.ProductName,
     c.CategoryName
